@@ -1,7 +1,17 @@
-# For Messenger Application
-<img width="375" alt="image1" src="https://github.com/user-attachments/assets/27edb95d-b2b4-415c-8aac-f70989243128">
-<img width="375" alt="image1" src="https://github.com/user-attachments/assets/172bffd4-ddd4-4f0a-89c2-a3ca63623961">
-<img width="375" alt="image1" src="https://github.com/user-attachments/assets/32ca2c25-ba5f-40ae-81f6-6bb76335f54d">
-<img width="375" alt="image1" src="https://github.com/user-attachments/assets/956302a0-417f-409b-a5f1-b3cb37f712cc">
-<img width="375" alt="image1" src="https://github.com/user-attachments/assets/680ff430-faf2-4de4-a746-53df7e6d09cc">
-<img width="375" alt="image1" src="https://github.com/user-attachments/assets/87a26716-dbdc-4d1c-87a2-6a5a97179138">
+# For Messenger
+It is an app that allows users to securely send messages and photos to each other after registering. User and data registration are handled via Firebase.
+
+## Technologies
+* Development Environment: Xcode
+* Programming Language: SwiftUI
+* Frameworks: SDWebImage
+* Services: Firebase
+* OS: iOS
+
+## Screenshots
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c303fe23-1715-42e6-9de3-489a15f96a43">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/98dbd5f8-b063-4fc7-9627-fc990f411150">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/56dbf038-1b8a-4c67-ba7f-f3c04e4c4a59">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/dc636791-4cdf-4380-90c7-843cc7da34e1">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/884d3e5d-1ef5-4fd2-9f4e-1755d6aa6624">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/cd75e51c-2682-4f4e-b786-37445e383937">
